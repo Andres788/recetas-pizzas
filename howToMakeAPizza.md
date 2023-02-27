@@ -6,3 +6,6 @@ PREPARACIÓN DE LA MASA:
 -harina
 -Aceite
 -Levadura
+preparar salsa
+tomate
+cebolla
