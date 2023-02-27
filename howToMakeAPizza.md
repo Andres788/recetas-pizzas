@@ -2,15 +2,17 @@
 
 PREPARACIÓN DE LA MASA:
 -Agua
--sal
--harina
+-Sal
+-Harina
 -Aceite
 -Levadura
--preparar salsa:
-tomate
-cebolla
+
+-Preparar salsa:
+-Tomate
+-Cebolla
+
 -Agregar Topping:
 
-- Pina
-- Jamon
-- Queso
+-Pina
+-Jamon
+-Queso
