@@ -1,4 +1,4 @@
-    -Receta Pizza GT-
+    -RECETA PIZZA GT:
 
 PREPARACIÓN DE LA MASA:
 -Agua
@@ -7,12 +7,11 @@ PREPARACIÓN DE LA MASA:
 -Aceite
 -Levadura
 
--Preparar salsa:
+-PREPARAR SALSA:
 -Tomate
 -Cebolla
 
--Agregar Topping:
-
+-AGREGAR TOPPING:
 -Pina
 -Jamon
 -Queso
