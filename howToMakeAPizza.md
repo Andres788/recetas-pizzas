@@ -1,4 +1,3 @@
-
     -Receta Pizza GT-
 
 PREPARACIÓN DE LA MASA:
@@ -10,7 +9,7 @@ PREPARACIÓN DE LA MASA:
 preparar salsa:
 tomate
 cebolla
+
 - Pina
 - Jamon
 - Queso
-
